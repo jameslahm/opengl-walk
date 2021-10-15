@@ -1,11 +1,1 @@
-﻿  main.cpp
-C:\Users\wangao\Desktop\hw2\hw2\mesh.h(86,1): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
-C:\Users\wangao\Desktop\hw2\hw2\main.cpp(241,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-C:\Users\wangao\Desktop\hw2\hw2\main.cpp(409,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-C:\Users\wangao\Desktop\hw2\hw2\main.cpp(410,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-C:\Users\wangao\Desktop\hw2\hw2\main.cpp(414,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-C:\Users\wangao\Desktop\hw2\hw2\main.cpp(415,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-C:\Users\wangao\Desktop\hw2\hw2\main.cpp(417,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-C:\Users\wangao\Desktop\hw2\hw2\main.cpp(418,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-C:\Users\wangao\Desktop\hw2\hw2\main.cpp(427,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-  hw2.vcxproj -> C:\Users\wangao\Desktop\hw2\x64\Debug\hw2.exe
+﻿  hw2.vcxproj -> C:\Users\wangao\Desktop\hw2\x64\Debug\hw2.exe
