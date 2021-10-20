@@ -1,10 +1,11 @@
 ﻿  main.cpp
-C:\Users\wangao\Desktop\hw2\hw2\main.cpp(226,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-C:\Users\wangao\Desktop\hw2\hw2\main.cpp(385,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-C:\Users\wangao\Desktop\hw2\hw2\main.cpp(386,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-C:\Users\wangao\Desktop\hw2\hw2\main.cpp(390,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-C:\Users\wangao\Desktop\hw2\hw2\main.cpp(391,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-C:\Users\wangao\Desktop\hw2\hw2\main.cpp(393,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-C:\Users\wangao\Desktop\hw2\hw2\main.cpp(394,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-C:\Users\wangao\Desktop\hw2\hw2\main.cpp(402,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangao\Desktop\hw2\hw2\main.cpp(252,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangao\Desktop\hw2\hw2\main.cpp(411,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangao\Desktop\hw2\hw2\main.cpp(412,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangao\Desktop\hw2\hw2\main.cpp(416,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangao\Desktop\hw2\hw2\main.cpp(417,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangao\Desktop\hw2\hw2\main.cpp(419,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangao\Desktop\hw2\hw2\main.cpp(420,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangao\Desktop\hw2\hw2\main.cpp(428,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangao\Desktop\hw2\hw2\main.cpp(701,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
   hw2.vcxproj -> C:\Users\wangao\Desktop\hw2\x64\Debug\hw2.exe
